@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #cbaff8;
+}
+
+
+.container
+{
+
+    margin: 5% auto;
+    justify-content: center;
+    max-width: 300px;
+    min-height: 60vh;
+}
+
+.container .logo
+{
+    margin: 8% ;
+    max-width: 250px;
+    border-radius: 20px;
+}
+
+
+.container .titulo
+{
+    margin: 8%;
+    color: black;
+    width: 85%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.container .texto
+{
+    margin: 8%;
+    color: #515358;
+    width: 85%;
+    font-size: 18px;
+    text-align: center;
+}
